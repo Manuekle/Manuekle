@@ -1,5 +1,5 @@
 <h2> Hi, I'm Manuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" src="https://c.tenor.com/LsHNtGBgnu8AAAAd/komi-komi-san.gif" style="border-radius: 100em; margin: 10px;" width="250"/>
+<img align="right" src="https://c.tenor.com/9xnHQLp_sKoAAAAd/komi-san-komi.gif" style="border-radius: 100em" width="250"/>
 <p><em>Software Enginner at <a href="https://fup.edu.co/">FUP</a> 
 </em></p>
 
@@ -7,20 +7,21 @@
 
 ```python
 class Manuel:
-	def __init__(self):
-		print("- 📊 My Stats:")
-		self.name = "Manuel"
-		self.age = "20"
-		print("- 🔨 Languages and Tools:")
-		self.code = ["Python", "Typescript", "Javascript"]
-		print("- 💬 Ask me about:")
-		self.tools = ["React.js", "Django", "PostgreSQL", "Git"]
-
-	def about(self):
-		print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer 
-		and a web developer(Freelancer).")
-		print("- 🌱 I'm currently learning React.js")
-		print("- 📫 How to reach me: meerazo7@hotmail.com")
+def __init__(self):
+	print("- 📊 My Stats:")
+	self.name = "Manuel"
+	self.age = "20"
+	print("- 🔨 Languages and Tools:")
+	self.code = ["Python", "Typescript", "Javascript"]
+	self.framework = ["React.js", "Django"]
+	self.tools = ["PostgreSQL", "Git", "Postman"]
+	print("- 💬 Ask me about:")
+	self.framework = ["Bitcoins", "Ethereum"]
+	
+def about(self):
+	print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer.")
+	print("- 🌱 I'm currently learning React.js")
+	print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 ---
 
