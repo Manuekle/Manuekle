@@ -1,5 +1,5 @@
 <h2> Hi, I'm Manuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/LsHNtGBgnu8AAAAd/komi-komi-san.gif" border="50" width="230">
+<img align="right" src="https://c.tenor.com/LsHNtGBgnu8AAAAd/komi-komi-san.gif" style="border-radius: 100em; margin: 10px;" width="250"/>
 <p><em>Software Enginner at <a href="https://fup.edu.co/">FUP</a> 
 </em></p>
 
