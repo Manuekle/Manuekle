@@ -29,6 +29,8 @@ def about(self):
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/python--v1.png" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sass.png" width="36" height="36" alt="Sass" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/postgreesql.png" width="36" height="36" alt="Postgres" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
