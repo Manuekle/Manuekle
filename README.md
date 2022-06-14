@@ -7,6 +7,7 @@
 class Manuel:
 def __init__(self):
 	print("- 📊 My Stats:")
+	self.country = "Colombia"
 	self.name = "Manuel"
 	self.age = "20"
 	print("- 🔨 Languages and Tools:")
@@ -14,7 +15,7 @@ def __init__(self):
 	self.framework = ["React.js", "Django"]
 	self.tools = ["PostgreSQL", "Git", "Postman"]
 	print("- 💬 Ask me about:")
-	self.framework = ["Bitcoins", "Ethereum"]
+	self.others = ["Bitcoins", "Ethereum", "Linux"]
 	
 def about(self):
 	print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer.")
@@ -22,4 +23,6 @@ def about(self):
 	print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 ---
+
+### <img src="https://c.tenor.com/ooi51RU2NloAAAAi/wink-cute.gif" width="30"> My Skills
 
