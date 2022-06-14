@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://fup.edu.co/">FUP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<img align='right' src="https://tenor.com/es/ver/komi-komi-san-komi-cant-communicate-komi-confused-confused-gif-24276528" width="230">
+<p><em>Software Enginner at <a href="https://fup.edu.co/">FUP</a> 
 </em></p>
 
 ### <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"> A little more about me...  
@@ -17,7 +17,8 @@ class Manuel:
 		self.tools = ["React.js", "Django", "PostgreSQL", "Git"]
 
 	def about(self):
-		print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer and a web developer(Freelancer).")
+		print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer 
+				and a web developer(Freelancer).")
 		print("- 🌱 I'm currently learning React.js")
 		print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
