@@ -28,7 +28,7 @@ def about(self):
 ### <img src="https://c.tenor.com/ooi51RU2NloAAAAi/wink-cute.gif" width="30"> My Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/python--v1.png" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/django.png" width="36" height="36" alt="Django" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/344/django.png" width="36" height="36" alt="Django" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/javascript.png" width="36" height="36" alt="Javascript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/typescript.png" width="36" height="36" alt="Typescript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
@@ -37,6 +37,7 @@ def about(self):
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/npm.png" width="36" height="36" alt="Npm" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linux--v1.png" width="36" height="36" alt="Linux" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/bitcoin--v1.png" width="36" height="36" alt="Bitcoin" /></a>
 </p>
 
 
