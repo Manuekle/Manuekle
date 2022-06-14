@@ -28,10 +28,13 @@ def about(self):
 ### <img src="https://c.tenor.com/ooi51RU2NloAAAAi/wink-cute.gif" width="30"> My Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/python--v1.png" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/javascript.png" width="36" height="36" alt="Javascript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sass.png" width="36" height="36" alt="Sass" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/postgreesql.png" width="36" height="36" alt="Postgres" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/npm.png" width="36" height="36" alt="Npm" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linux--v1.png" width="36" height="36" alt="Linux" /></a>
 </p>
 
 
