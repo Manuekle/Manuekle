@@ -37,6 +37,7 @@ def about(self):
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/npm.png" width="36" height="36" alt="Npm" /></a>
 <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linux--v1.png" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.postman.com/company/about-postman/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
 </p>
 
 
