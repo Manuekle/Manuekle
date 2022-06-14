@@ -1,5 +1,5 @@
 <h2> Hi, I'm Manuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/es/ver/komi-komi-san-komi-cant-communicate-komi-confused-confused-gif-24276528" width="230">
+<img align='right' src="https://c.tenor.com/LsHNtGBgnu8AAAAd/komi-komi-san.gif" border="50" width="230">
 <p><em>Software Enginner at <a href="https://fup.edu.co/">FUP</a> 
 </em></p>
 
@@ -18,7 +18,7 @@ class Manuel:
 
 	def about(self):
 		print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer 
-				and a web developer(Freelancer).")
+		and a web developer(Freelancer).")
 		print("- 🌱 I'm currently learning React.js")
 		print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
