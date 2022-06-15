@@ -32,6 +32,7 @@ def about(self):
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/javascript.png" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/typescript.png" width="36" height="36" alt="Typescript" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" width="36" height="36" alt="Tailwind" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sass.png" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/postgreesql.png" width="36" height="36" alt="Postgres" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
