@@ -13,14 +13,14 @@ def __init__(self):
 	self.status = "Student"
 	print("- 🔨 Languages and Tools:")
 	self.code = ["Python", "Typescript", "Javascript"]
-	self.framework = ["React.js", "Django", "Bootstrap", "Sass"]
+	self.framework = ["React.js", "Django", "Tailwind", "Bootstrap", "Sass"]
 	self.tools = ["PostgreSQL", "Git", "Postman", "npm"]
 	print("- 💬 Ask me about:")
 	self.others = ["Bitcoins", "Ethereum", "Linux"]
 	
 def about(self):
-	print("- 👨‍💻 Hi, I'm Manuel! I'm a software engineer.")
-	print("- 🌱 I'm currently learning React.js")
+	print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
+	print("- 🗒 I'm currently learning React.js")
 	print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 ---
