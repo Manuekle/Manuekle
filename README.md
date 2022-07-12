@@ -28,7 +28,7 @@ def about(self):
 ### <img src="https://c.tenor.com/ooi51RU2NloAAAAi/wink-cute.gif" width="30"> My Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/python--v1.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.criscandv.com/img/skills/django.png" width="36" alt="Django"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://marcas-logos.net/wp-content/uploads/2022/06/Django-Logo-500x313.png" width="36" alt="Django"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/javascript.png" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/typescript.png" width="36" height="36" alt="Typescript" /></a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
