@@ -1,7 +1,7 @@
 <h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
 <p><b>Software Enginner at: <a href="https://fup.edu.co/">FUP</a></b></p>
 
-### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me...  
+### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me...
 
 ```python
 class Manuel:
@@ -13,32 +13,35 @@ def __init__(self):
 	self.status = "Student"
 	print("- 🔨 Languages and Tools:")
 	self.code = ["Python", "Typescript", "Javascript"]
-	self.framework = ["React.js", "Django", "Tailwind", "Bootstrap", "Sass"]
-	self.tools = ["PostgreSQL", "Git", "Postman", "npm"]
+	self.framework = ["React", "Vue","Django", "Tailwind", "Astro"]
+	self.tools = ["PostgreSQL", "Git", "Postman", "npm", "Bash"]
 	print("- 💬 Ask me about:")
-	self.others = ["Bitcoins", "Ethereum", "Linux"]
-	
+	self.others = ["Programming", "Ethereum", "Linux"]
+
 def about(self):
 	print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
-	print("- 🗒 I'm currently learning React.js")
+	print("- 🗒 I'm currently learning Deno.js")
 	print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
+
 ---
 
 ### <img src="https://c.tenor.com/ooi51RU2NloAAAAi/wink-cute.gif" width="30"> My Skills
+
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/python--v1.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://marcas-logos.net/wp-content/uploads/2022/06/Django-Logo-500x313.png" width="36" alt="Django"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/javascript.png" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/typescript.png" width="36" height="36" alt="Typescript" /></a>
-<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/react-native.png" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" width="36" height="36" alt="Tailwind" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sass.png" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/postgreesql.png" width="36" height="36" alt="Postgres" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/git.png" width="36" height="36" alt="Git" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/npm.png" width="36" height="36" alt="Npm" /></a>
-<a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linux--v1.png" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.postman.com/company/about-postman/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
-</p>
 
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./imgs/python.png" width="42" height="42" alt="Python" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./imgs/django.png" width="42" height="42" alt="Django"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./imgs/javascript.png" width="42" height="42" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./imgs/typescript.png" width="42" height="42" alt="Typescript" /></a>
+<a href="https://markdown.es/sintaxis-markdown/" target="_blank" rel="noreferrer"><img src="./imgs/markdown.png" width="42" height="42" alt="Markdown" /></a>
+<a href="https://es.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="./imgs/react.png" width="42" height="42" alt="React" /></a>
+<a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="./imgs/npm.png" width="42" height="42" alt="Markdown" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="./imgs/git.png" width="42" height="42" alt="git" /></a>
+<a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./imgs/deno.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./imgs/tailwind.png" width="42" height="42" alt="Tailwind" /></a>
+<a href="https://archlinux.org/download/" target="_blank" rel="noreferrer"><img src="./imgs/archlinux.png" width="42" height="42" alt="Archlinux" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./imgs/postman.png" width="42" height="42" alt="postman" /></a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="./imgs/jwt.png" width="42" height="42" alt="Jwt" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./imgs/github.png" width="42" height="42" alt="Github" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./imgs/postgresql.png" width="42" height="42" alt="Postgresql" /></a>
