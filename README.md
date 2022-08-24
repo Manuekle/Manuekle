@@ -13,10 +13,10 @@ def __init__(self):
 	self.status = "Student"
 	print("- 🔨 Languages and Tools:")
 	self.code = ["Python", "Typescript", "Javascript"]
-	self.framework = ["React", "Vue","Django", "Tailwind", "Astro"]
+	self.framework = ["React", "Vue", "Django", "Tailwind", "Astro"]
 	self.tools = ["PostgreSQL", "Git", "Postman", "npm", "Bash"]
 	print("- 💬 Ask me about:")
-	self.others = ["Programming", "Ethereum", "Linux"]
+	self.others = ["Programming", "UI/UX Design", "Linux"]
 
 def about(self):
 	print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
