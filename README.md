@@ -39,8 +39,13 @@ def about(self):
 <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="./imgs/npm.png" width="42" height="42" alt="Markdown" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="./imgs/git.png" width="42" height="42" alt="git" /></a>
 <a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./imgs/deno.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="./imgs/astro.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./imgs/vite.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./imgs/docker.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="./imgs/eslint.png" width="42" height="42" alt="Deno" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./imgs/tailwind.png" width="42" height="42" alt="Tailwind" /></a>
 <a href="https://archlinux.org/download/" target="_blank" rel="noreferrer"><img src="./imgs/archlinux.png" width="42" height="42" alt="Archlinux" /></a>
+<a href="https://es.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer"><img src="./imgs/bash.png" width="42" height="42" alt="Archlinux" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./imgs/postman.png" width="42" height="42" alt="postman" /></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="./imgs/jwt.png" width="42" height="42" alt="Jwt" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./imgs/github.png" width="42" height="42" alt="Github" /></a>
