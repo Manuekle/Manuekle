@@ -1,27 +1,27 @@
 <h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
 <p><b>Software Enginner at: <a href="https://fup.edu.co/">FUP</a></b></p>
 
-### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me...
+### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me
 
 ```python
 class Manuel:
 def __init__(self):
-	print("- 📊 My Stats:")
-	self.country = "Colombia"
-	self.name = "Manuel"
-	self.age = "20"
-	self.status = "Student"
-	print("- 🔨 Languages and Tools:")
-	self.code = ["Python", "Typescript", "Javascript"]
-	self.framework = ["React", "Vue", "Django", "Tailwind", "Astro"]
-	self.tools = ["PostgreSQL", "Git", "Postman", "npm", "Bash"]
-	print("- 💬 Ask me about:")
-	self.others = ["Programming", "UI/UX Design", "Linux"]
+ print("- 📊 My Stats:")
+ self.country = "Colombia"
+ self.name = "Manuel"
+ self.age = "20"
+ self.status = "Student"
+ print("- 🔨 Languages and Tools:")
+ self.code = ["Python", "Typescript", "Javascript"]
+ self.framework = ["React", "Vue", "Django", "Tailwind", "Astro"]
+ self.tools = ["PostgreSQL", "Git", "Postman", "npm", "Bash"]
+ print("- 💬 Ask me about:")
+ self.others = ["Programming", "UI/UX Design", "Linux"]
 
 def about(self):
-	print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
-	print("- 🗒 I'm currently learning Deno.js")
-	print("- 📫 How to reach me: meerazo7@hotmail.com")
+ print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
+ print("- 🗒 I'm currently learning Deno.js")
+ print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
 ---
@@ -39,6 +39,7 @@ def about(self):
 <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="./imgs/npm.png" width="42" height="42" alt="Markdown" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="./imgs/git.png" width="42" height="42" alt="git" /></a>
 <a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./imgs/deno.png" width="42" height="42" alt="Deno" /></a>
+<a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="./imgs/redis.png" width="42" height="42" alt="Deno" /></a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="./imgs/astro.png" width="42" height="42" alt="Deno" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./imgs/vite.png" width="42" height="42" alt="Deno" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./imgs/docker.png" width="42" height="42" alt="Deno" /></a>
