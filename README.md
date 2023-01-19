@@ -1,5 +1,4 @@
 <h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
-<p><b>Software Enginner at: <a href="https://fup.edu.co/">FUP</a></b></p>
 
 ### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me
 
@@ -12,15 +11,16 @@ def __init__(self):
  self.age = "20"
  self.status = "Student"
  print("- 🔨 Languages and Tools:")
- self.code = ["Python", "Typescript", "Javascript"]
- self.framework = ["React", "Vue", "Django", "Tailwind", "Astro"]
- self.tools = ["PostgreSQL", "Git", "Postman", "npm", "Bash"]
+ self.code = ["Python", "Javascript"]
+ self.framework = ["Reactjs", "Django", "Tailwind", "Astro", "Vite"]
+ self.database = ["PostgreSQL", "Redis", "MySql"]
+ self.tools = ["Git", "Postman", "Bash"]
  print("- 💬 Ask me about:")
- self.others = ["Programming", "UI/UX Design", "Linux"]
+ self.others = ["#Cybersecurity", "#Cars", "#Football"]
 
 def about(self):
- print("- 🔮 Hi, I'm Manuel! I'm a software engineer.")
- print("- 🗒 I'm currently learning Deno.js")
+ print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
+ print("- 🗒 I'm currently learning Next.js")
  print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
