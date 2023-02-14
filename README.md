@@ -1,9 +1,7 @@
-<h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
-
-**Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif"> 
+    <img width="100%" src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif"> 
 </p>
+<h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
 
 ### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me
 
