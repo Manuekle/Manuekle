@@ -2,19 +2,17 @@
    <img align="center" width="200" src="https://thecodinglove.com/content/027/reboot.png" />
    <h3 align="center">¡Hi, I'm Manuel! 👨🏻‍💻</h3>
 </p>
-<p align="center">I'm <strong> Full Stack Web Developer</strong>!</p>
+
+<p align="center">I'm <strong> Full Stack Web Developer!</strong></p>
 <p align="center">
    <a href="https://www.linkedin.com/in/manuekle/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel" height="24px" width="24px" />
   </a>
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://github.com/Manuekle" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="manuel" height="24px" width="24px" />
   </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://www.instagram.com/manudev.jsx" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manuel" height="24px" width="24px" />
   </a>
 </p>
 
