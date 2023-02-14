@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="50%" src="https://thecodinglove.com/content/027/reboot.png"> 
 </p>
 <h2> Hi, I'm Manuel! <img src="https://userstyles.org/style_screenshots/204108_after.gif" width="50"></h2>
