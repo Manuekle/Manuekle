@@ -11,16 +11,18 @@ def __init__(self):
  self.age = "20"
  self.status = "Student"
  print("- 🔨 Languages and Tools:")
- self.code = ["Python", "Javascript"]
- self.framework = ["Reactjs", "Django", "Tailwind", "Astro", "Vite"]
- self.database = ["PostgreSQL", "Redis", "MySql"]
- self.tools = ["Git", "Postman", "Bash"]
+ self.code = ["Python", "Javascript", "C#"]
+ self.frontend = ["ReactJs","TailwindCSS", "Astro", "Vite", "Json", "Jest"]
+ self.backend = ["NodeJs", "Django"]
+ self.database = ["PostgreSQL", "Redis", "MySQL", "Supabase"]
+ self.cloud = ["AWS"]
+ self.tools = ["Git", "GitHub Actions", "Postman", "Bash", "VirtualBox"]
  print("- 💬 Ask me about:")
- self.others = ["#Cybersecurity", "#Cars", "#Football"]
+ self.others = ["#Cybersecurity", "#Cars", "#Football", "#Cooking", "#Instruments"]
 
 def about(self):
  print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
- print("- 🗒 I'm currently learning Next.js")
+ print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun")
  print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
