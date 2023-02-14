@@ -12,7 +12,7 @@ def __init__(self):
  self.status = "Student"
  print("- 🔨 Languages and Tools:")
  self.code = ["Python", "Javascript", "C#"]
- self.frontend = ["ReactJs","TailwindCSS", "Astro", "Vite", "Json", "Jest"]
+ self.frontend = ["HTML", "CSS", "React","TailwindCSS", "Astro", "Vite", "JSON", "Jest"]
  self.backend = ["NodeJs", "Django"]
  self.database = ["PostgreSQL", "Redis", "MySQL", "Supabase"]
  self.cloud = ["AWS"]
@@ -22,7 +22,7 @@ def __init__(self):
 
 def about(self):
  print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
- print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun")
+ print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun", "Deno")
  print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
