@@ -7,8 +7,8 @@ class Manuel:
 def __init__(self):
  print("- 📊 My Stats:")
  self.country = "Colombia"
- self.name = "Manuel"
- self.age = "20"
+ self.name = "Manuel Erazo"
+ self.age = "21"
  self.status = "Student"
  print("- 🔨 Languages and Tools:")
  self.code = ["Python", "Javascript", "C#"]
@@ -16,7 +16,7 @@ def __init__(self):
  self.backend = ["NodeJs", "Django"]
  self.database = ["PostgreSQL", "Redis", "MySQL", "Supabase"]
  self.cloud = ["AWS"]
- self.tools = ["Git", "GitHub Actions", "Postman", "Bash", "VirtualBox"]
+ self.tools = ["Git", "GitHub Actions", "Postman", "Bash", "VirtualBox", "Linux", "Markdown", "Docker"]
  print("- 💬 Ask me about:")
  self.others = ["#Cybersecurity", "#Cars", "#Football", "#Cooking", "#Instruments"]
 
