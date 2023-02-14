@@ -38,7 +38,7 @@ def __init__(self):
 
 def about(self):
  print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
- print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun, Deno)
+ print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun, Deno")
  print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
