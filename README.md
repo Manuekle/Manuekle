@@ -24,21 +24,21 @@ def __init__(self):
  print("- 📊 My Stats:")
  self.country = "Colombia"
  self.name = "Manuel Erazo"
- self.age = "21"
- self.status = "Student"
+ self.age = "23"
+ self.status = "Freelance"
  print("- 🔨 Languages and Tools:")
  self.code = ["Python", "Javascript", "C#"]
- self.frontend = ["HTML", "CSS", "React","TailwindCSS", "Astro", "Vite", "JSON", "Jest"]
+ self.frontend = ["HTML", "CSS", "React","TailwindCSS", "Astro"]
  self.backend = ["NodeJs", "Django"]
- self.database = ["PostgreSQL", "Redis", "MySQL", "Supabase"]
- self.cloud = ["AWS"]
- self.tools = ["Git", "GitHub Actions", "Postman", "Bash", "VirtualBox", "Linux", "Markdown", "Docker"]
+ self.database = ["PostgreSQL", "MySQL", "Supabase"]
+ self.cloud = ["AWS", "Railway", "Cloudflare"]
+ self.tools = ["Git", "Postman", "Bash", "VirtualBox", "Linux", "Markdown", "Docker"]
  print("- 💬 Ask me about:")
- self.others = ["#Cybersecurity", "#Cars", "#Football", "#Cooking", "#Instruments"]
+ self.others = ["#Cybersecurity", "#Cars", "#Gym", "#Cooking", "#Instruments"]
 
 def about(self):
  print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
- print("- 🗒 I'm currently learning Next.js, Svelte, Dart, GraphQL, Bun, Deno")
+ print("- 🗒 I'm currently learning Next.js, Svelte, Bun, Deno")
  print("- 📫 How to reach me: meerazo7@hotmail.com")
 ```
 
