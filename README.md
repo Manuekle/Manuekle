@@ -18,28 +18,23 @@
 
 ### <img src="https://c.tenor.com/yLPF2ku83OoAAAAi/peach-emm.gif" width="30"> A little more about me
 
-```python
-class Manuel:
-def __init__(self):
- print("- 📊 My Stats:")
- self.country = "Colombia"
- self.name = "Manuel Erazo"
- self.age = "23"
- self.status = "Freelance"
- print("- 🔨 Languages and Tools:")
- self.code = ["Python", "Javascript", "C#"]
- self.frontend = ["HTML", "CSS", "React","TailwindCSS", "Astro"]
- self.backend = ["NodeJs", "Django"]
- self.database = ["PostgreSQL", "MySQL", "Supabase"]
- self.cloud = ["AWS", "Railway", "Cloudflare"]
- self.tools = ["Git", "Postman", "Bash", "VirtualBox", "Linux", "Markdown", "Docker"]
- print("- 💬 Ask me about:")
- self.others = ["#Cybersecurity", "#Cars", "#Gym", "#Cooking", "#Instruments"]
+```typescript
+const manuel = {
+  name: "Manuel Erazo",
+  age: 23,
+  country: "Colombia",
+  status: "Freelance",
+  contact: "meerazo7@hotmail.com",
 
-def about(self):
- print("- 🔮 Hi, I'm Manuel! I'm a Full Stack Web Developer.")
- print("- 🗒 I'm currently learning Next.js, Svelte, Bun, Deno")
- print("- 📫 How to reach me: meerazo7@hotmail.com")
+  code: ["Python", "JavaScript", "C#"],
+  frontend: ["HTML", "CSS", "React", "Tailwind", "Astro", "Next.js"],
+  backend: ["Node.js", "Django"],
+  database: ["PostgreSQL", "MySQL", "Supabase", "Prisma", "MongoDB"],
+  cloud: ["AWS", "Railway", "Cloudflare"],
+  tools: ["Git", "Postman", "Bash", "Docker", "Linux", "VirtualBox", "Markdown"],
+  linux: ["Arch"],
+  currentlyLearning: ["Svelte", "Bun", "Deno"]
+};
 ```
 
 ---
