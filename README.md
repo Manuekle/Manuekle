@@ -1,10 +1,11 @@
 <pre align="center">
- /\_/\
-( o.o )  hi, i'm manuel
- &gt; ^ &lt;   building thoughtful little things.
+/\_/\
+( o.o )
+&gt; ^ &lt;
 </pre>
 
 <p align="center">
+  <strong>hi, i'm manuel</strong><br>
   <strong>Full stack developer · Bogotá, Colombia</strong><br>
   Thoughtful interfaces, SaaS products &amp; AI.
 </p>

@@ -1,10 +1,11 @@
 <pre align="center">
- /\_/\
-( o.o )  hola, soy manuel
- &gt; ^ &lt;   creando cosas con cariño.
+/\_/\
+( o.o )
+&gt; ^ &lt;
 </pre>
 
 <p align="center">
+  <strong>hola, soy manuel</strong><br>
   <strong>Desarrollador full stack · Bogotá, Colombia</strong><br>
   Interfaces cuidadas, productos SaaS e IA.
 </p>
