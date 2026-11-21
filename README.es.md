@@ -1,12 +1,6 @@
-<pre align="center">
-      ＿＿＿＿&#32;&#32;&#32;&#32;
-    ﾉ        ヽ&#32;&#32;&#32;
-   /   ﾘハヽ   ヽ&#32;
-   |  |(0  0)|  |&#32;
-   |  | .ワノ |  |
-   |  |       |  |
-   .Ｗ         Ｗ&#32;
-</pre>
+<p align="center">
+  <img src="assets/logo.svg" alt="Ilustración del perfil de Manuel" width="160">
+</p>
 
 <p align="center">
   <strong>hola, soy manuel</strong><br>
